@@ -28,7 +28,7 @@ enum PingUnit {
 }
 
 //% weight=10 color=#008B00 icon="\uf136" block="Maqueen5555"
-namespace maqueen {
+namespace maqueen55555 {
 
     export class Packeta {
         public mye: string;
