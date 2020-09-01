@@ -23,7 +23,7 @@
   "Maqueen.writeLED|block": "led|%led|LEDswitch|%ledswitch",
   "PingUnit.Centimeters|block": "cm",
   "PingUnit.MicroSeconds|block": "μs",
-  "maqueenIR.onPressEvent|block": "on |%btn| button pressed",
+  "maqueenIR.onPressEvent|block": "o2n |%btn| button pressed",
   "maqueenIR|block": "maqueenir",
   "{id:category}Maqueen": "Maqueen",
   "{id:category}MaqueenIR": "MaqueenIR"
