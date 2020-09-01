@@ -27,7 +27,7 @@ enum PingUnit {
     MicroSeconds
 }
 
-//% weight=10 color=#008B00 icon="\uf136" block="Maqueen"
+//% weight=10 color=#008B00 icon="\uf136" block="Maqueen5555"
 namespace maqueen {
 
     export class Packeta {
